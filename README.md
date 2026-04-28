@@ -129,7 +129,7 @@ sephora-beauty-analytics/
 5. Run all cells top to bottom
 
 **Data Warehouse:**
-1. Run the SQL scripts in the sql_scripts/ folder in SQL Server to create the schema
+1. Run create_schema.sql in SQL Server to create the star schema.
 2. Use the Flat File Import wizard in SQL Server to bulk load the cleaned CSVs into each table
 
 **ETL:**
