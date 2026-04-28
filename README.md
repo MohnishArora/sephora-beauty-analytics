@@ -7,6 +7,7 @@
 
 **Result:** End-to-end data warehouse with star schema design enabling actionable insights across product strategy, pricing, and brand engagement
 
+![System Architecture](./Architecture.jpeg)
 ---
 
 ## The Problem
